@@ -13,4 +13,4 @@ So yes, if I had one iota of focus/ a much longer lifespan so I wouldn't blink t
 
 Man. All I really want is to not have to walk to the Marketplace every goddamn day in the 10 min gap between my classes. 
 
-Oh. And I learned you can edit a branch that is not the Master branch and save changes. Whaddya know. 
+Oh. And I learned you can edit a branch that is not the Master branch and save changes. Whaddya know.  
